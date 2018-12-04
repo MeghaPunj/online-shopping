@@ -34,6 +34,7 @@
 	window.menu = '${title}';
 </script>
 <script src="${js}/myapp.js"></script>
+<link href="${css}/bootstrap-readable.css" rel="stylesheet">
 
 </head>
 <body>
